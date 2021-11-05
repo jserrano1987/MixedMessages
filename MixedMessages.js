@@ -26,3 +26,4 @@ let retransmiteWPT = (jugadaComentada) =>{
 
 
 retransmiteWPT();
+//Hola Cris
